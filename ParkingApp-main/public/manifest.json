@@ -1,0 +1,8 @@
+{
+  "name": "Parking App",
+  "short_name": "Parking",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Vehicle Parking App"
+}
