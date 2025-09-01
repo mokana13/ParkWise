@@ -35,7 +35,7 @@ A full-stack Vehicle Parking Management Web App with **Flask** (Backend API), **
 ## How to Run (on Windows)
 
 ### 1. Clone the Project
-git clone https://github.com/your-username/vehicle-parking-system.git
+git clone [https://github.com/your-username/vehicle-parking-system.git](https://github.com/mokana13/ParkWise.git)
 cd vehicle-parking-system
 
 ### 2. Set Up Python Virtual Environment
